@@ -1,0 +1,14 @@
+C:\Users\jihuu\source\repos\BreakInfinity\BreakInfinity\bin\Debug\net10.0\BreakInfinity.exe
+C:\Users\jihuu\source\repos\BreakInfinity\BreakInfinity\bin\Debug\net10.0\BreakInfinity.deps.json
+C:\Users\jihuu\source\repos\BreakInfinity\BreakInfinity\bin\Debug\net10.0\BreakInfinity.runtimeconfig.json
+C:\Users\jihuu\source\repos\BreakInfinity\BreakInfinity\bin\Debug\net10.0\BreakInfinity.dll
+C:\Users\jihuu\source\repos\BreakInfinity\BreakInfinity\bin\Debug\net10.0\BreakInfinity.pdb
+C:\Users\jihuu\source\repos\BreakInfinity\BreakInfinity\obj\Debug\net10.0\BreakInfinity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jihuu\source\repos\BreakInfinity\BreakInfinity\obj\Debug\net10.0\BreakInfinity.AssemblyInfoInputs.cache
+C:\Users\jihuu\source\repos\BreakInfinity\BreakInfinity\obj\Debug\net10.0\BreakInfinity.AssemblyInfo.cs
+C:\Users\jihuu\source\repos\BreakInfinity\BreakInfinity\obj\Debug\net10.0\BreakInfinity.csproj.CoreCompileInputs.cache
+C:\Users\jihuu\source\repos\BreakInfinity\BreakInfinity\obj\Debug\net10.0\BreakInfinity.dll
+C:\Users\jihuu\source\repos\BreakInfinity\BreakInfinity\obj\Debug\net10.0\refint\BreakInfinity.dll
+C:\Users\jihuu\source\repos\BreakInfinity\BreakInfinity\obj\Debug\net10.0\BreakInfinity.pdb
+C:\Users\jihuu\source\repos\BreakInfinity\BreakInfinity\obj\Debug\net10.0\BreakInfinity.genruntimeconfig.cache
+C:\Users\jihuu\source\repos\BreakInfinity\BreakInfinity\obj\Debug\net10.0\ref\BreakInfinity.dll
