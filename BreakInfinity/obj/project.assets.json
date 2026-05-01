@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jihuu\\source\\repos\\BreakInfinity\\BreakInfinity\\BreakInfinity.csproj",
+      "projectUniqueName": "C:\\Users\\jihuu\\OneDrive\\문서\\GitHub\\BreakInfinity-Imitation\\BreakInfinity\\BreakInfinity.csproj",
       "projectName": "BreakInfinity",
-      "projectPath": "C:\\Users\\jihuu\\source\\repos\\BreakInfinity\\BreakInfinity\\BreakInfinity.csproj",
+      "projectPath": "C:\\Users\\jihuu\\OneDrive\\문서\\GitHub\\BreakInfinity-Imitation\\BreakInfinity\\BreakInfinity.csproj",
       "packagesPath": "C:\\Users\\jihuu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jihuu\\source\\repos\\BreakInfinity\\BreakInfinity\\obj\\",
+      "outputPath": "C:\\Users\\jihuu\\OneDrive\\문서\\GitHub\\BreakInfinity-Imitation\\BreakInfinity\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jihuu\\AppData\\Roaming\\NuGet\\NuGet.Config",
